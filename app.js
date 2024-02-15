@@ -15,7 +15,7 @@ function TaskManager() {
     };
    
     this.viewTasks = function() {
-      console.log("seyma2 :");
+      console.log("Seyma1 :");
       this.tasks.forEach(task => {
         console.log(`${task.name} - ${task.completed ? 'Completed' : 'Pending'}`);
       });
