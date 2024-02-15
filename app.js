@@ -10,7 +10,7 @@ function TaskManager() {
       if (taskIndex !== -1) {
         this.tasks[taskIndex].completed = true;
       } else {
-        console.log("Seyma1");
+        console.log("seyma2");
       }
     };
    
